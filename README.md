@@ -1,2 +1,2 @@
-# play_picks
+# PlayPicks
 遊びプラン提案アプリ
